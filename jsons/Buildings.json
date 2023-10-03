@@ -1,7 +1,12 @@
 [
         {
                 "name": "Invest",
-                "cost": 6,
-                "uniques": ["[+25]% [Production] [in this city]"],
-        }
+                "cost": 180,
+                "uniques": ["Doubles Gold given to enemy if city is captured","Cannot be purchased","Unsellable","Unbuildable","Can be purchased with [Gold]","[+45]% [Production] [in this city] <for [10] turns>"],
+        },
+        {
+                "name": "Invest2",
+                "cost": 360,
+                "uniques": ["Doubles Gold given to enemy if city is captured","Cannot be purchased","Unsellable","Unbuildable","Can be purchased with [Gold] <in cities with a [Invest]>","[+45]% [Production] [in this city] <for [6] turns>"],
+        },
 ]
