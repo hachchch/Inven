@@ -2,6 +2,6 @@
         {
                 "name": "Invest",
                 "cost": 6,
-                "uniques": ["[{gold}]% [Production] [in this city]"],
+                "uniques": ["[+{25}]% [Production] [in this city]"],
         }
 ]
