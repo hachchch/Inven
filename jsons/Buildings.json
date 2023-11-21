@@ -1,7 +1,7 @@
 [
         {
-                "name": "Invest",
+                "name": "Industrial Investment",
                 "cost": 180,
-                "uniques": ["Doubles Gold given to enemy if city is captured","Cannot be purchased","Unbuildable","Can be purchased with [Gold]","[+45]% [Production] [in this city] <for [10] turns>"],
+                "uniques": ["Doubles Gold given to enemy if city is captured","Cannot be purchased","Unbuildable","Can be purchased with [Gold]","[+45]% [Production] [in this city] <for [10] turns>","Remove [Industrial Investment] [in this city]"],
         }
 ]
